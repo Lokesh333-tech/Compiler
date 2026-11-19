@@ -1,0 +1,6 @@
+{
+  "name": "OptiForge-OS",
+  "description": "AI-Assisted Compiler Optimization for CPU, Memory and System Resource Efficiency",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
